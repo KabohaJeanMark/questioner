@@ -8,4 +8,4 @@ venv/*
 htmlcov/*
 .idea/
 .pylintrc
-
+*.testenv

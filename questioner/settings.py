@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     "accounts.apps.AccountsConfig",
     "rest_framework_swagger",
     "drf_yasg",
+    'images.apps.ImagesConfig'
 ]
 
 REST_FRAMEWORK = {

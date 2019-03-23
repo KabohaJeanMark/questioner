@@ -51,7 +51,7 @@ pylint-plugin-utils==0.5
 pytest==4.3.0
 pytest-cov==2.6.1
 pytest-django==3.4.8
-python-coveralls==2.9.1
+#python-coveralls==2.9.1
 python-dotenv==0.10.1
 pytz==2018.9
 PyYAML==3.13
