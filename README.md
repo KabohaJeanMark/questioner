@@ -6,7 +6,10 @@ by The dojos
 
 ## Introduction
 
-Questioner is ...
+Questioner is an online meetups APi designed to enable people to schedule meetings, ask questions, comment and place votes on those comments.
+
+### Tools and Languages 
+Python, Django, PostgreSQL
 
 ## Installation
 
