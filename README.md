@@ -2,9 +2,7 @@
 
 by The dojos
 
-[![Build Status](https://travis-ci.com/kbjude/questioner.svg?branch=develop)](https://travis-ci.com/kbjude/questioner)
 [![Coverage Status](https://coveralls.io/repos/github/kbjude/questioner/badge.svg?branch=develop)](https://coveralls.io/github/kbjude/questioner?branch=develop)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5733e79fce2049e8bb43bc0558a5b910)](https://www.codacy.com/app/kalsmic/questioner?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kbjude/questioner&amp;utm_campaign=Badge_Grade)
 
 ## Introduction
 
